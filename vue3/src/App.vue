@@ -8,7 +8,7 @@
 <script lang="ts">
 import {
   defineComponent,
-} from 'vue';
+} from 'vue3';
 export default defineComponent({
   name: 'App',
   props: {},

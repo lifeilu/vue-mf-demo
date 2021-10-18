@@ -12,7 +12,7 @@ import {
   defineComponent,
   defineAsyncComponent,
   ref,
-} from 'vue';
+} from 'vue3';
 // import HelloWorld from '../components/hello-world.vue';
 export default defineComponent({
   name: 'Main',

@@ -87,7 +87,7 @@
     "gantt-elastic-header": "^0.1.11",
     "gantt-schedule-timeline-calendar": "^3.6.6",
     "tiny-emitter": "^2.1.0",
-    "vue": "^3.2.20",
+    "vue3": "npm:vue@^3.2.20",
     "vue-class-component": "^7.2.3",
     "vue-property-decorator": "^8.4.1",
     "vue-router": "4.0.5",

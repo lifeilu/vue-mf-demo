@@ -11,6 +11,12 @@ const moduleFederationConfig =  {
     './Main': './src/pages/main.vue',
   },
   remotes: {},
+  shared: {
+    vue3: {
+      singleton: true,
+      eager: true,
+    },
+  },
 };
 
 module.exports = moduleFederationConfig;

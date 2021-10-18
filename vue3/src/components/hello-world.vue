@@ -18,7 +18,7 @@ import {
   onMounted,
   onUpdated,
   onUnmounted,
-} from 'vue';
+} from 'vue3';
 
 export default defineComponent({
   name: 'hello world',

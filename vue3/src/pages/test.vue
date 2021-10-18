@@ -10,7 +10,7 @@
 </style>
 
 <script lang="ts">
-import { onMounted, createApp } from 'vue';
+import { onMounted, createApp } from 'vue3';
 
 export default {
   name: 'Test',

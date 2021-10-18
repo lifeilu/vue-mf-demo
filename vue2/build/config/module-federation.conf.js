@@ -11,6 +11,11 @@ const moduleFederationConfig =  {
     // "./TransmitCenter": "./src/components/common/transmitCenter-v2.vue",
   },
   remotes: {},
+  shared: {
+    vue3: {
+      singleton: true,
+    },
+  },
 }
 
 moduleFederationConfig.remotes[AssetMatrixModule.name] = AssetMatrixModule.federationConfig;

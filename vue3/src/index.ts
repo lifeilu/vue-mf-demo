@@ -5,7 +5,7 @@
 import Antd from 'ant-design-vue';
 import ElementPlus from 'element-plus';
 import locale from 'element-plus/lib/locale/lang/zh-cn';
-import { createApp } from 'vue';
+import { createApp } from 'vue3';
 import App from './App.vue';
 import router from './router';
 
